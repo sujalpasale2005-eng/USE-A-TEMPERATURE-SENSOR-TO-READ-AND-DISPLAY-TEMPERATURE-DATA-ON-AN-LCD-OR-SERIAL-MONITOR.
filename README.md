@@ -26,3 +26,5 @@ WE CAN USE THIS IN VARIOUS APPLICATIONS LIKE - Basic weather stations
 - Room temperature monitoring
 - Educational demonstrations of sensor interfacing
 - IoT projects when combined with Wi‑Fi modules
+
+- ![Image](https://github.com/user-attachments/assets/534f9e2b-8f75-4623-9022-ac118a095196)
